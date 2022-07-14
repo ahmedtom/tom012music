@@ -63,7 +63,7 @@
         "UPSTREAM_REPO": {
             "description": "الجت هب ",
             "value": "https://github.com/ahmedtom/tom012music",
-            "required": false
+            "required": true
         },
         "UPSTREAM_BRANCH": {
             "description": "سبها و بطل لعب",
