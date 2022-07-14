@@ -1,9 +1,9 @@
 {
-    "name": "⌯ Source zoro ˹♻️˼⁩",
+    "name": "⌯ Source Tom ˹♻️˼⁩",
     "description": "Telegram Music Bot from Team Codexun allows you to stream music trought the telegram voice chat feature.",
-   "logo": "https://telegra.ph//file/648ea11f2cb8a8897e7fc.jpg",
+   "logo": "https://telegra.ph//file/f693175b064a8abc5cd6b.jpg",
     "keywords": ["telegram music bot", "voice chat", "pytgcalls"],
-    "repository": "https://github.com/bhkvlldu/MusicBot",
+    "repository": "https://github.com/ahmedtom/tom012music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -13,7 +13,7 @@
         "OWNER_ID": {
             "description": "ايدي المطور",
             "required": true,
-            "value": "1419690087"
+            "value": "5283518897"
         },
         "ASSID": {
             "description": "",
@@ -48,7 +48,7 @@
         "SUPPORT": {
             "description": "رابط جروب الدعم",
             "required": false,
-            "value": "MB_2k_PY"
+            "value": "sadoonbasha"
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -62,8 +62,8 @@
         },
         "UPSTREAM_REPO": {
             "description": "الجت هب ",
-            "value": "https://github.com/bhkvlldu/MusicBot",
-            "required": true
+            "value": "https://github.com/ahmedtom/tom012music",
+            "required": false
         },
         "UPSTREAM_BRANCH": {
             "description": "سبها و بطل لعب",
@@ -83,7 +83,7 @@
         "SUDO_USERS": {
             "description": "ايدي المطورين و سبها لو مفيش غيرك",
             "required": true,
-            "value": "1419690087"
+            "value": "5283518897"
         },
         "DURATION_LIMIT": {
             "description": "سبها !",
@@ -103,7 +103,7 @@
     },
     "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+      "url": "https://github.com/ahmedtom/tom012music.git"
     },
     {
       "url": "heroku/python"
