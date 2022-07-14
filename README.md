@@ -1,4 +1,4 @@
-# ⌯ Source zoro ˹♻️˼⁩
+# ⌯ Source Tom ˹♻️˼⁩
 
 • I am a developer in Python
 
@@ -6,7 +6,3 @@
  
 • I only dream of your dream, not the dream of others
  
-GROUP = @MB_2k_PY\n
-GROUP = @M_Python_2\n
-CHANNEL = @MK_1B_PY\n
-CHANNEL_2 = @M_Python_2\n
